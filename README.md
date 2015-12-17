@@ -1,3 +1,3 @@
-# hello-world
-Intro to Git
+# hello-world Edits
+Intro to Git\r\n
 test foo bar edit file
